@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" preserveAspectRatio="none">
+  <path fill="black" d="M10 60
+    C 80 35, 160 45, 240 55
+    S 380 70, 480 50
+    S 640 80, 760 55
+    S 920 85, 1050 60
+    S 1180 50, 1195 70
+    L 1190 145
+    C 1100 165, 980 145, 880 155
+    S 700 130, 580 150
+    S 380 130, 260 150
+    S 80 145, 12 130 Z"/>
+  <!-- speckled drips for hand-painted feel -->
+  <circle fill="black" cx="60" cy="180" r="3"/>
+  <circle fill="black" cx="120" cy="190" r="2"/>
+  <circle fill="black" cx="220" cy="178" r="2.5"/>
+  <circle fill="black" cx="980" cy="185" r="3"/>
+  <circle fill="black" cx="1090" cy="178" r="2"/>
+  <circle fill="black" cx="1150" cy="190" r="2.5"/>
+  <circle fill="black" cx="40" cy="25" r="2.5"/>
+  <circle fill="black" cx="500" cy="18" r="2"/>
+  <circle fill="black" cx="900" cy="22" r="3"/>
+</svg>

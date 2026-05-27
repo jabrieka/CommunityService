@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="none">
+  <path fill="black" d="M200 20
+    C 280 25, 340 70, 360 140
+    C 385 200, 370 280, 320 330
+    C 270 380, 180 385, 120 350
+    C 50 310, 20 230, 35 160
+    C 55 80, 130 30, 200 20 Z"/>
+  <!-- speckles -->
+  <circle fill="black" cx="380" cy="60" r="6"/>
+  <circle fill="black" cx="395" cy="100" r="3"/>
+  <circle fill="black" cx="20" cy="350" r="5"/>
+  <circle fill="black" cx="40" cy="380" r="3"/>
+  <circle fill="black" cx="370" cy="350" r="4"/>
+  <circle fill="black" cx="15" cy="80" r="4"/>
+  <circle fill="black" cx="50" cy="30" r="3"/>
+</svg>

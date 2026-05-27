@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" fill="none" stroke="#D4A52A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Sun -->
+  <circle cx="120" cy="60" r="22"/>
+  <!-- Sun rays -->
+  <line x1="120" y1="20" x2="120" y2="32"/>
+  <line x1="120" y1="88" x2="120" y2="100"/>
+  <line x1="80" y1="60" x2="92" y2="60"/>
+  <line x1="148" y1="60" x2="160" y2="60"/>
+  <line x1="92" y1="32" x2="100" y2="40"/>
+  <line x1="140" y1="80" x2="148" y2="88"/>
+  <line x1="148" y1="32" x2="140" y2="40"/>
+  <line x1="100" y1="80" x2="92" y2="88"/>
+  <!-- Pyramid / mountain -->
+  <path d="M30 160 L120 70 L210 160 Z"/>
+  <!-- Inner accent lines on pyramid -->
+  <path d="M70 160 L120 110 L170 160"/>
+  <path d="M90 160 L120 130 L150 160"/>
+  <!-- Decorative bottom band -->
+  <line x1="20" y1="172" x2="220" y2="172" stroke-width="3"/>
+  <!-- Diamond pattern -->
+  <path d="M40 184 L48 178 L56 184 L48 190 Z"/>
+  <path d="M70 184 L78 178 L86 184 L78 190 Z"/>
+  <path d="M100 184 L108 178 L116 184 L108 190 Z"/>
+  <path d="M130 184 L138 178 L146 184 L138 190 Z"/>
+  <path d="M160 184 L168 178 L176 184 L168 190 Z"/>
+  <path d="M190 184 L198 178 L206 184 L198 190 Z"/>
+</svg>
