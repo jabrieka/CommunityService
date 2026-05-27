@@ -11,14 +11,14 @@ import {
   ClockIcon,
   PinIcon,
   MailIcon,
-  InstagramIcon,
   PhoneIcon,
+  UserIcon,
 } from "@/components/Icons";
 
+const CONTACT_NAME = "Jabrieka Thornton";
 const PHONE = "769-243-0309";
 const PHONE_TEL = "+17692430309";
 const EMAIL = "cosetteproductions@gmail.com";
-const IG = "cosette.productions";
 const LOCATION_NAME = "Thee Herbal Blessing";
 const LOCATION_ADDR = "614 N Farish St, Jackson, MS";
 
@@ -210,20 +210,13 @@ export default function HomePage() {
             </h3>
             <ul className="mt-6 space-y-3 text-lg">
               <li className="flex items-center gap-3">
+                <UserIcon className="w-6 h-6 stroke-ink" />
+                <span className="font-semibold">{CONTACT_NAME}</span>
+              </li>
+              <li className="flex items-center gap-3">
                 <MailIcon className="w-6 h-6 stroke-ink" />
                 <a href={`mailto:${EMAIL}`} className="hover:underline">
                   {EMAIL}
-                </a>
-              </li>
-              <li className="flex items-center gap-3">
-                <InstagramIcon className="w-6 h-6 stroke-ink" />
-                <a
-                  href={`https://instagram.com/${IG}`}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="hover:underline"
-                >
-                  @{IG}
                 </a>
               </li>
               <li className="flex items-center gap-3">
